@@ -1,0 +1,20 @@
+{
+    "TechCrunch": "https://techcrunch.com/feed/",
+    "Wired Tech": "https://www.wired.com/feed/rss",
+    "Ars Technica": "https://arstechnica.com/feed/",
+    "MIT Tech Review": "https://www.technologyreview.com/feed/",
+    "Bloomberg": "https://www.bloomberg.com/feed/rss/",
+    "Financial Times": "https://www.ft.com/?format=rss",
+    "Forbes": "https://www.forbes.com/news/feed/",
+    "CoinDesk": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "ESPN": "https://www.espn.com/espn/rss/news",
+    "BBC Sport": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "Sky Sports F1": "https://www.skysports.com/rss/12040",
+    "The Athletic": "https://theathletic.com/feed/",
+    "Variety": "https://variety.com/feed/",
+    "Hollywood Reporter": "https://www.hollywoodreporter.com/feed/",
+    "Billboard": "https://www.billboard.com/feed/",
+    "NASA": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "Science Daily": "https://www.sciencedaily.com/rss/all.xml",
+    "Nature": "https://www.nature.com/nature.rss"
+}
